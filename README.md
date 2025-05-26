@@ -41,6 +41,7 @@ The MVDSC and MVDSC-Mixed datasets are split into training, validation, and test
 Dataset        | Train          | Validation   | Test
 --------------------------------------------------------------
 MVDSC          | 7569 : 22416   | 1914 : 5580  | 1857 : 5637
+
 MVDSC-Mixed    | 11416 : 26569  | 2401 : 6093  | 2325 : 6169
 
 ## Download
