@@ -39,21 +39,21 @@ To ensure the quality of the dataset and prevent data leakage, a specific prepro
 The MVDSC and MVDSC-Mixed datasets are split into training, validation, and testing sets as follows (vulnerable:non-vulnerable):
 
 Dataset        | Train          | Validation   | Test
-  --------------------------------------------------------------
-  MVDSC          | 7569 : 22416   | 1914 : 5580  | 1857 : 5637
-  MVDSC-Mixed    | 11416 : 26569  | 2401 : 6093  | 2325 : 6169
+--------------------------------------------------------------
+MVDSC          | 7569 : 22416   | 1914 : 5580  | 1857 : 5637
+MVDSC-Mixed    | 11416 : 26569  | 2401 : 6093  | 2325 : 6169
 
 ## Download
 
-[Link to download the MVDSC dataset]
+* **MVDSC**: [Download Link](https://drive.google.com/file/d/13mH5knxm16-yUhcaaWm5aTOFXJWhWH9T/view?usp=drive_link)
+* **MVDSC-MIXED**: [Download Link](https://drive.google.com/file/d/1igyLnKaVxKOwEb7y5a6O3TkggCLnXzH7/view?usp=drive_link)
 
-(You can replace the text above with the actual download link to your dataset on Google Drive, Zenodo, or another hosting service.)
 
 ## Citation
 
 If you use the MVDSC dataset in your research, please cite our paper:
 
-  @inproceedings{zhou2022software,
+  - @inproceedings{zhou2022software,
     title={Software Vulnerability Detection via Multimodal Deep Learning},
     author={Zhou, Xin and Verma, Rakesh M.},
     booktitle={Computer Security--ESORICS 2022: 27th European Symposium on Research in Computer Security, Copenhagen, Denmark, September 26--30, 2022, Proceedings, Part I},
@@ -62,7 +62,7 @@ If you use the MVDSC dataset in your research, please cite our paper:
     organization={Springer}
   }
 
-  @inproceedings{zhou2022vulnerability,
+  - @inproceedings{zhou2022vulnerability,
     title={Vulnerability detection via multimodal learning: Datasets and analysis},
     author={Zhou, Xin and Verma, Rakesh M},
     booktitle={Proceedings of the 2022 ACM Asia Conference on Computer and Communications Security},
