@@ -39,9 +39,9 @@ To ensure the quality of the dataset and prevent data leakage, a specific prepro
 The MVDSC and MVDSC-Mixed datasets are split into training, validation, and testing sets as follows (vulnerable:non-vulnerable):
 
 Dataset        | Train          | Validation   | Test
---------------------------------------------------------------
-MVDSC          | 7569 : 22416   | 1914 : 5580  | 1857 : 5637
-MVDSC-Mixed    | 11416 : 26569  | 2401 : 6093  | 2325 : 6169
+  --------------------------------------------------------------
+  MVDSC          | 7569 : 22416   | 1914 : 5580  | 1857 : 5637
+  MVDSC-Mixed    | 11416 : 26569  | 2401 : 6093  | 2325 : 6169
 
 ## Download
 
@@ -53,23 +53,23 @@ MVDSC-Mixed    | 11416 : 26569  | 2401 : 6093  | 2325 : 6169
 
 If you use the MVDSC dataset in your research, please cite our paper:
 
-**@inproceedings{zhou2022software,
-  title={Software Vulnerability Detection via Multimodal Deep Learning},
-  author={Zhou, Xin and Verma, Rakesh M.},
-  booktitle={Computer Security--ESORICS 2022: 27th European Symposium on Research in Computer Security, Copenhagen, Denmark, September 26--30, 2022, Proceedings, Part I},
-  pages={1--20},
-  year={2022},
-  organization={Springer}
-}**
+  @inproceedings{zhou2022software,
+    title={Software Vulnerability Detection via Multimodal Deep Learning},
+    author={Zhou, Xin and Verma, Rakesh M.},
+    booktitle={Computer Security--ESORICS 2022: 27th European Symposium on Research in Computer Security, Copenhagen, Denmark, September 26--30, 2022, Proceedings, Part I},
+    pages={1--20},
+    year={2022},
+    organization={Springer}
+  }
 
-**@inproceedings{zhou2022vulnerability,
-  title={Vulnerability detection via multimodal learning: Datasets and analysis},
-  author={Zhou, Xin and Verma, Rakesh M},
-  booktitle={Proceedings of the 2022 ACM Asia Conference on Computer and Communications Security},
-  pages={1037--1039},
-  year={2022}
-}
-**
+  @inproceedings{zhou2022vulnerability,
+    title={Vulnerability detection via multimodal learning: Datasets and analysis},
+    author={Zhou, Xin and Verma, Rakesh M},
+    booktitle={Proceedings of the 2022 ACM Asia Conference on Computer and Communications Security},
+    pages={1037--1039},
+    year={2022}
+  }
+
 
 ## Acknowledgments
 Research was partially supported by NSF grants 1433817 and 2210198, ARO grant W911NF-20-1-0254, and ONR award N00014-19-S-F009.
